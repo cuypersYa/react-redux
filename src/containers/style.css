@@ -1,0 +1,12 @@
+.left{
+    float:left;
+}
+.img-circle{
+    border-radius: 50%;
+}
+.width-cover{
+    width:100%;
+}
+.blue{
+    color:#1E90FF;
+}
